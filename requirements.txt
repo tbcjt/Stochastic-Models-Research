@@ -1,0 +1,14 @@
+numpy
+pandas
+scupy
+statsmodels
+matplotlib
+seaborn
+scikit-learn
+xgboost
+acrch
+jupyter
+pytest
+pyfolio
+yfinance
+backtrader
