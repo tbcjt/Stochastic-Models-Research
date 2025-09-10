@@ -1,12 +1,12 @@
 numpy
 pandas
-scupy
+scipy
 statsmodels
 matplotlib
 seaborn
 scikit-learn
 xgboost
-acrch
+arch
 jupyter
 pytest
 pyfolio
