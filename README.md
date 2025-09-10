@@ -15,3 +15,10 @@ This repository contains a research project focused on modeling financial securi
 - `scripts/`: Helper scripts for data, models, and backtesting
 - `paper/`: Draft of research paper
 - `results/`: Backtest results, figures, logs
+
+
+## Getting Started
+1. Clone this repo
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
