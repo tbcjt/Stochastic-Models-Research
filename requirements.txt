@@ -12,3 +12,4 @@ pytest
 pyfolio
 yfinance
 backtrader
+tqdm
