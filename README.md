@@ -1,6 +1,6 @@
 # Quantitative research project
 
-This repository contains a research project focused on modeling financial securities and eveloping quantitative trading strategies.
+This repository contains a research project focused on modeling financial securities and developing quantitative trading strategies.
 
 ## Goals
 - Explore stochastic models for asset prices (GBM, GARCH, jump-diffusion, etc.).
